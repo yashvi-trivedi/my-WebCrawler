@@ -26,6 +26,6 @@ python crawler.py <website_url> <recursion_depth>
 ```  
 Example:  
 ```bash
-python crawler.py (https://web-scraping.dev/) 3
+python crawler.py -u https://web-scraping.dev/ -t 3
 ```  
 #### Alternatively, if you prefer a Jupyter Notebook, run the ipynb file!
